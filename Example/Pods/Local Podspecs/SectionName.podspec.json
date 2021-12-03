@@ -1,0 +1,22 @@
+{
+  "name": "SectionName",
+  "version": "0.1.0",
+  "summary": "人脸识别界面",
+  "description": "人脸识别界面，使用的AVFoundation框架实现",
+  "homepage": "https://github.com/LZB-iOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "林正波": "lzb_developer@163.com"
+  },
+  "source": {
+    "git": "https://github.com/林正波/SectionName.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SectionName/Classes/**/*"
+}
